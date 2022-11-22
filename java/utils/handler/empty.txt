@@ -1,0 +1,2 @@
+utils.handler package includes any java class that handles or treats special cases in framework code.
+Ex. Exception handling of some methods or libraries
