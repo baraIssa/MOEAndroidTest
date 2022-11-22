@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Data>
+
+    <GuestUser>
+        <firstname>Aya xml</firstname>
+        <lastname>ahmad xml</lastname>
+        <phone>501234567</phone>
+        <email>ayajar@yahoo.com</email>
+    </GuestUser>
+
+    <Address>
+        <address>jordan</address>
+        <apartment>B2</apartment>
+        <floor>ground</floor>
+        <buildingName>Alzhoor</buildingName>
+        <streetName>bushra</streetName>
+        <area>Irbid</area>
+        <zipCode>1234</zipCode>
+        <contactFullName>ayah adel jaradat</contactFullName>
+        <phone>ayah adel jaradat</phone>
+    </Address>
+
+
+    <card>
+        <name>Ayah</name>
+        <cardNumber>5200000000001005</cardNumber>
+        <cardDate>0926</cardDate>
+        <cvv>123</cvv>
+        <visa>4111111111111111</visa>
+        <threeDCard>4456530000001096</threeDCard>
+
+    </card>
+
+
+    <usersCredentials>
+        <AsmaEmailAddress>asma.dabbous@maf.ae</AsmaEmailAddress>
+        <AsmaPassword>Winfooz@1234</AsmaPassword>
+    </usersCredentials>
+
+    <Address>
+        <address>jordan</address>
+        <apartment>B2</apartment>
+        <floor>ground</floor>
+        <buildingName>Alzhoor</buildingName>
+        <streetName>bushra</streetName>
+        <area>Irbid</area>
+        <zipCode>1234</zipCode>
+        <contactFullName>ayah adel jaradat</contactFullName>
+        <AddressEmail>asma.dabbous@maf.ae</AddressEmail>
+
+    </Address>
+
+</Data>
